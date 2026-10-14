@@ -28,9 +28,12 @@ trial/
 
 How to Run Locally
 Clone or download this repository.(vision_model_best.pt is a provided pretrained model,(5 EPOCH))
+```
+---
 
+## Install and run locally
 Install dependencies:
-```bash
+
 pip install -r requirements.txt
 
 Train the model (Generates vision_model_best.pt):Bash
@@ -41,7 +44,7 @@ Evaluate model performance across the test set:
 
 Run single-image prediction:
    python predict_cv.py
-```
+
 ## Contributors
 - **Dataset Curation & Train/Test Split:** [Aaryan Kalra](https://github.com/aaryankalra1510-lgtm)
 - **Model Pipeline & Training:** [Ryan Dinto](https://github.com/liktb)
