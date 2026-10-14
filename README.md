@@ -40,3 +40,7 @@ Evaluate model performance across the test set:
 
 Run single-image prediction:
    python predict_cv.py
+```
+## Contributors
+- **Dataset Curation & Train/Test Split:** [Aaryan Kalra](https://github.com/aaryankalra1510-lgtm)
+- **Model Pipeline & Training:** [Ryan Dinto](https://github.com/liktb)
