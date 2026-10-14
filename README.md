@@ -1,4 +1,4 @@
-# 👁️ Cats vs. Dogs Image Classification Pipeline
+# Cats vs. Dogs Image Classification Pipeline
 
 A production-grade Deep Learning computer vision pipeline built using PyTorch, transfer learning with **EfficientNet-B0**, and accelerated locally via NVIDIA CUDA. Designed for high accuracy and rapid inference on custom image classification tasks.
 
