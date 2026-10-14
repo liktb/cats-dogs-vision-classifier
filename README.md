@@ -30,7 +30,8 @@ How to Run Locally
 Clone or download this repository.(vision_model_best.pt is a provided pretrained model,(5 EPOCH))
 
 Install dependencies:
-   pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 
 Train the model (Generates vision_model_best.pt):Bash
    python train_cv.py
