@@ -33,17 +33,22 @@ Clone or download this repository.(vision_model_best.pt is a provided pretrained
 
 ## Install and run locally
 Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 Train the model (Generates vision_model_best.pt):Bash
+```bash
    python train_cv.py
+```
 
 Evaluate model performance across the test set:
+```bash
    python evaluate_cv.py
-
+```
 Run single-image prediction:
+```bash
    python predict_cv.py
+```
 
 ## Contributors
 - **Dataset Curation & Train/Test Split:** [Aaryan Kalra](https://github.com/aaryankalra1510-lgtm)
