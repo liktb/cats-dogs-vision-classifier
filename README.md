@@ -30,6 +30,9 @@ How to Run Locally
 Clone or download this repository.(vision_model_best.pt is a provided pretrained model,(5 EPOCH))
 ```
 ---
+## Run Web app (online host)
+
+- **Web app** [Cat or Dog](https://catvsdogcompitervision.streamlit.app/)
 
 ## Install and run locally
 Install dependencies:
