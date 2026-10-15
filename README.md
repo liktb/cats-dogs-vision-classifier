@@ -56,5 +56,6 @@ Run single-image prediction:
 ```
 
 ## Contributors
-- **Dataset Curation & Train/Test Split:** [Aaryan Kalra](https://github.com/aaryankalra1510-lgtm)
 - **Model Pipeline & Training:** [Ryan Dinto](https://github.com/liktb)
+- **Dataset Curation & Train/Test Split:** [Aaryan Kalra](https://github.com/aaryankalra1510-lgtm)
+- **Streamlit App & Demo Lead:** [Devansh Sharma](https://github.com/devanshs1802-glitch)
