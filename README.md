@@ -34,7 +34,10 @@ Clone or download this repository.(vision_model_best.pt is a provided pretrained
 ## Install and run locally
 Install dependencies:
 ```bash
+pip install torch torchvision streamlit transformers datasets scikit-learn pandas numpy Pillow huggingface-hub  # If needed
+#then
 pip install -r requirements.txt
+
 ```
 Train the model (Generates vision_model_best.pt):Bash
 ```bash
